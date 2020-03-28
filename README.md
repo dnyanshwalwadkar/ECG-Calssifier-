@@ -1,4 +1,4 @@
-# ECG-Calssifier-
+# ECG-Classifier-
 
 
 tThe electrocardiogram (ECG) signal basically corresponds to the electrical activity of the heart.
